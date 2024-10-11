@@ -29,7 +29,7 @@ This repository contains a Bash script (`find_duplicates.sh`) that finds and lis
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/find-duplicates.git
+   git clone https://github.com/sftech13/find-duplicates.git
    cd find-duplicates
    ```
 2. Make the script executable:
